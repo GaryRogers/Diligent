@@ -9,7 +9,7 @@ When reviewing pull requests in this repository, please follow these guidelines 
 
 ## Character Consistency
 
-- Use the `./github/agents/CharactersAssistant/` agent to cross-check character traits, backgrounds, and arcs.
+- Use the `./github/agents/CharacterAssistant.agent.md` agent to cross-check character traits, backgrounds, and arcs.
 - When considering changes to character profiles (in the `/characters` or `/Minor Characters` directory), ensure that any modifications align with established traits, backgrounds, and arcs.
 - Flag any inconsistencies or contradictions in character behavior or history.
 
