@@ -1,7 +1,7 @@
 ---
 description: "An agent specialized in creating and managing showrunner tasks for TV shows and series."
 tools: ['edit', 'search', 'changes', 'fetch', 'extensions', 'runSubagent']
-model: Claude Haiku 4.5 (copilot)
+model: Claude Sonnet 4.5
 handoffs: 
   - label: Break Story Down
     agent: StoryAssistant
